@@ -37,4 +37,4 @@ npm start.
 Open your browser and navigate to http://localhost:3000.
 Register a new user and log in.
 Start adding, updating, and deleting tasks.
-Happy birthday! Enjoy your new task management application! If you have any questions or need further assistance, feel free to ask.
+I created this project as my own gift for my birthday.
