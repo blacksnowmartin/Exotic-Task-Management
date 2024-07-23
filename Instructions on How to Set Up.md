@@ -38,3 +38,5 @@ Open your browser and navigate to http://localhost:3000.
 Register a new user and log in.
 Start adding, updating, and deleting tasks.
 I created this project as my own gift for my birthday.
+
+## Blacksnow Martin 2024 ©
