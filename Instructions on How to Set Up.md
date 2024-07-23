@@ -18,7 +18,7 @@ JWT_SECRET=your_jwt_secret
 Start the server with
 
 ```bash
-npm run dev.
+npm run dev
 ```
 ## Frontend Setup
 
@@ -26,8 +26,9 @@ Navigate to the frontend folder.
 
 Run
 ```bash
-npm install to install dependencies.
+npm install 
 ```
+to install dependencies.
 
 Start the React development server with
 npm start.
