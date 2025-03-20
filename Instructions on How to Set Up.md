@@ -41,4 +41,6 @@ Start adding, updating, and deleting tasks.
 I created this project as my own gift for my birthday.
 // greatness
 
+Control your life easily. 
+
 ## Blacksnow Martin 2024 ©
